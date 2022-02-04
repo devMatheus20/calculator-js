@@ -1,2 +1,3 @@
-# calculator-js
-Calculator made with Basic JavaScript Web.
+# Calculator
+
+Basic calculator made with the intention of eating web javascript.
